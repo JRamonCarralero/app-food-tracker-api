@@ -21,7 +21,7 @@ Follow these steps to set up the backend:
 Clone the repository and navigate to the backend folder:
 
 ```bash
-git clone 
+git clone [https://github.com/JRamonCarralero/app-food-tracker-api.git](https://github.com/JRamonCarralero/app-food-tracker-api.git)
 cd App-Food-Tracker
 npm install
 ```
